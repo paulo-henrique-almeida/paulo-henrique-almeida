@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Paulo Henrique!
 
 [![paulo-henrique-almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-henrique-almeida&show_icons=true&hide=contribs&hide_rank=true&count_private=true&theme=github_dark&locale=pt-br)](https://github.com/paulo-henrique-almeida/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-henrique-almeida&layout=compact&theme=github_dark&locale=pt-br&hide=html)](https://github.com/paulo-henrique-almeida/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-henrique-almeida&layout=compact&theme=github_dark&locale=pt-br)](https://github.com/paulo-henrique-almeida/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulo-henrique-almeida&theme=github-dark-blue&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 ##
